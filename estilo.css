@@ -1,0 +1,65 @@
+body
+{
+    background-color: blueviolet;
+}
+#aver
+{
+    text-shadow: -10px -8px 5px black;
+    color: rgb(77, 216, 72);
+    padding-top: 30px;
+    height: 70px;
+    text-align: center;
+    background-color: rgb(156, 94, 141);
+    font-family: 'Courier New', Courier, monospace;
+}
+#modo
+{
+    text-align: center;
+}
+#primer_valor
+{
+    text-shadow: -4px -2px 2px chartreuse;
+    color: palevioletred;
+    background-color: black;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-radius: 19px;
+    width: 300px;
+    font-size: 50px;
+}
+#segundo_valor
+{
+    text-shadow: -4px -2px 2px chartreuse;
+    color: palevioletred;
+    background-color: black;
+    text-align: center;    
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-radius: 19px;
+    width: 300px;
+    font-size: 50px;
+}
+#op
+{
+    text-shadow: 4px -2px 2px white;
+    color: cyan;
+    background-color: black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 50px;
+}
+#respuesta
+{
+    text-shadow: -4px -2px 2px olive;
+    color: rgb(20, 157, 220);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+#boton
+{
+    color: red;
+    text-shadow: -7px -5px 4px black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: rgb(24, 142, 146);
+    border-radius: 20px;
+    font-size: 100px;
+}
